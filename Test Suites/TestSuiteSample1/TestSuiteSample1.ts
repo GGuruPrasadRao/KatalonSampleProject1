@@ -20,7 +20,7 @@
    <testCaseLink>
       <guid>271d1d70-3191-4758-bbe8-1ee4e8a9a757</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SimpleGetRequest</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -32,19 +32,25 @@
    <testCaseLink>
       <guid>0e006e0f-3ddf-4fde-b3a3-b542efdc6126</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/CalculatorTests/Addition</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>25aabb7d-4a50-4a09-9f7d-86524d860525</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/RestRequestTests/ListUsers</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f4afb953-d042-4dfe-9b71-3eae0c977c43</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/SampleGetRequest</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>09bff752-1e55-40fd-8428-967f6e7f1198</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SampleTest1</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
